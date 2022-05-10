@@ -1,4 +1,6 @@
-# Introducing Angular schematics
+# Getting started with Angular schematics
+
+This repo contains the scaffolded Angular projects which were part of te Betatalk "Getting started with Angular Schematics, Prt. 1". [Check it out](https://www.youtube.com/watch?v=NDcvAjNz2Qo) 
 
 ## You already use schematics
 
